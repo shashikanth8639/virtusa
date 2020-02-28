@@ -1,0 +1,18 @@
+img{
+    max-width: 50px;
+}
+#leftbox { 
+    float:left;  
+    width:33%; 
+    /* height:280px;  */
+} 
+#middlebox{ 
+    float:left;  
+    width:33%; 
+    /* height:280px;  */
+} 
+#rightbox{ 
+    float:right; 
+    width:33%; 
+    /* height:280px;  */
+} 
